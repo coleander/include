@@ -3,3 +3,4 @@ Very simple and clean include handler trait(Originally developed for use in Lara
 
 # Install
 
+`composer require coleander/include`
