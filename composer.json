@@ -1,0 +1,16 @@
+{
+    "name": "coleander/include",
+    "type": "library",
+    "description": "Very simple and clean include handler trait",
+    "keywords": ["php","api"],
+    "homepage": "https://coleander.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christoffer Oleander Nielsen",
+            "email": "christoffer@coleander.com",
+            "homepage": "https://coleander.com",
+            "role": "Developer"
+        }
+    ],
+}
